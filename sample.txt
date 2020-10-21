@@ -1,2 +1,3 @@
 This is a sample text.
 But it is changed now.
+This changed text is better then previous one.
